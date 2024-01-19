@@ -38,7 +38,7 @@ ul {
   
   .bg-image {
     /* The image used */
-    background-image: url("/img/background.jpg");
+    background-image: url("../img/background.jpg");
   
     /* Add the blur effect */
     filter: blur(8px);
