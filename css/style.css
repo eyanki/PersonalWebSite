@@ -89,6 +89,7 @@ ul {
     text-align: center !important;
     text-decoration: none !important;
     margin: 10px;
+    border-radius: 10px;
   }
   
   .fa:hover {
@@ -109,5 +110,8 @@ ul {
     color: white;
   }
   
+  h5 {
+    font-family: 'Courier New', Courier, monospace;
+  }
 
     
