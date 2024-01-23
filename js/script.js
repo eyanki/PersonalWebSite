@@ -5,3 +5,5 @@ function bigImg(x) {
   function normalImg(x) {
     x.style.width = "50px";
   }
+
+ 
